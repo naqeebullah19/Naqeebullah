@@ -34,7 +34,7 @@ export default function About() {
             <p className="font-inter text-on-surface-variant text-base leading-relaxed">
               Beyond coding, I'm focused on building practical skills, improving SEO,
               blogging, and workflow automation. I believe in continuous learning and
-              creating tools that solve real problems — not just writing code that works,
+              creating tools that solve real problems not just writing code that works,
               but code that matters.
             </p>
 
